@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Maker & Tailoring Engine",
+  "description": "Bypass Applicant Tracking Systems with AI candidate profile parsing, 5+ job description keyword pooling matrix, STAR format bullet rewriter, ATS match scoring, and 1-click tailored resume generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
